@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "7661cfeeea7817d71e7f94f70d5448a9"
+build_time: [1557576960, 390456000]
+inputs:
+  "/Users/pravalika/Downloads/ios-challenge-master/ios-challenge/ViewController.swift": [1557564257, 0]
+  "/Users/pravalika/Downloads/ios-challenge-master/ios-challenge/AppDelegate.swift": [1555396604, 0]
+  "/Users/pravalika/Downloads/ios-challenge-master/ios-challenge/NumberedListTableViewController.swift": [1557564248, 0]
+  "/Users/pravalika/Downloads/ios-challenge-master/ios-challenge/SimpleRedux.swift": [1555396604, 0]
+  "/Users/pravalika/Downloads/ios-challenge-master/ios-challenge/ImageUIViewController.swift": [1557564113, 0]
+  "/Users/pravalika/Downloads/ios-challenge-master/ios-challenge/AppState.swift": [1557557389, 0]

@@ -1,0 +1,403 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "13ios_challenge14ViewControllerC"
+provides-member:
+- ["13ios_challenge14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "countLabel"
+- "didTapDecreaseButton"
+- "didTapIncreaseButton"
+- "viewDidLoad"
+depends-top-level:
+- !private "??"
+- !private "AppState"
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- !private "DecreaseAction"
+- !private "FloatLiteralType"
+- !private "IncreaseAction"
+- !private "IntegerLiteralType"
+- "State"
+- "StoreSubscriber"
+- !private "String"
+- "UILabel"
+- "UIViewController"
+- "ViewController"
+- !private "store"
+depends-member:
+- !private ["13ios_challenge6ActionP", "init"]
+- !private ["13ios_challenge8AppStateV", "counter"]
+- !private ["SK", "init"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "DecreaseAction"]
+- !private ["s7CVarArgP", "IncreaseAction"]
+- !private ["s7CVarArgP", "String"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "countLabel"]
+- !private ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "newState"]
+- !private ["s7CVarArgP", "store"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "DecreaseAction"]
+- !private ["s28CustomDebugStringConvertibleP", "IncreaseAction"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "countLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "newState"]
+- !private ["s28CustomDebugStringConvertibleP", "store"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s23CustomStringConvertibleP", "DecreaseAction"]
+- !private ["s23CustomStringConvertibleP", "IncreaseAction"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "countLabel"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "newState"]
+- !private ["s23CustomStringConvertibleP", "store"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "init"]
+- !private ["Se", "text"]
+- !private ["13ios_challenge14DecreaseActionV", "deinit"]
+- !private ["13ios_challenge14DecreaseActionV", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "text"]
+- !private ["SQ", "DecreaseAction"]
+- !private ["SQ", "IncreaseAction"]
+- !private ["SQ", "String"]
+- ["SQ", ""]
+- !private ["SQ", "countLabel"]
+- !private ["SQ", "init"]
+- ["SQ", "newState"]
+- !private ["SQ", "store"]
+- !private ["SQ", "text"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["SH", "DecreaseAction"]
+- !private ["SH", "IncreaseAction"]
+- !private ["SH", "String"]
+- ["SH", ""]
+- !private ["SH", "countLabel"]
+- !private ["SH", "init"]
+- ["SH", "newState"]
+- !private ["SH", "store"]
+- !private ["SH", "text"]
+- !private ["SH", "viewDidLoad"]
+- !private ["13ios_challenge14IncreaseActionV", "deinit"]
+- !private ["13ios_challenge14IncreaseActionV", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "DecreaseAction"]
+- !private ["So8NSCodingP", "IncreaseAction"]
+- !private ["So8NSCodingP", "String"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "countLabel"]
+- !private ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "newState"]
+- !private ["So8NSCodingP", "store"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "DecreaseAction"]
+- !private ["So26NSExtensionRequestHandlingP", "IncreaseAction"]
+- !private ["So26NSExtensionRequestHandlingP", "String"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "countLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- ["So26NSExtensionRequestHandlingP", "newState"]
+- !private ["So26NSExtensionRequestHandlingP", "store"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So8NSObjectC", "AppState"]
+- !private ["So8NSObjectC", "DecreaseAction"]
+- !private ["So8NSObjectC", "IncreaseAction"]
+- ["So8NSObjectC", "State"]
+- !private ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "countLabel"]
+- ["So8NSObjectC", "didTapDecreaseButton"]
+- ["So8NSObjectC", "didTapIncreaseButton"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "newState"]
+- !private ["So8NSObjectC", "store"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "DecreaseAction"]
+- !private ["So8NSObjectP", "IncreaseAction"]
+- !private ["So8NSObjectP", "String"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "countLabel"]
+- !private ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "newState"]
+- !private ["So8NSObjectP", "store"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["Sq", "text"]
+- !private ["Sm", "init"]
+- !private ["ST", "init"]
+- !private ["13ios_challenge5StateP", "counter"]
+- !private ["13ios_challenge5StoreC", "dispatch"]
+- !private ["13ios_challenge5StoreC", "state"]
+- !private ["13ios_challenge5StoreC", "subscribe"]
+- !private ["13ios_challenge15StoreSubscriberP", "DecreaseAction"]
+- !private ["13ios_challenge15StoreSubscriberP", "IncreaseAction"]
+- !private ["13ios_challenge15StoreSubscriberP", "String"]
+- ["13ios_challenge15StoreSubscriberP", ""]
+- !private ["13ios_challenge15StoreSubscriberP", "countLabel"]
+- ["13ios_challenge15StoreSubscriberP", "newState"]
+- !private ["13ios_challenge15StoreSubscriberP", "store"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "DecreaseAction"]
+- !private ["So21UIAppearanceContainerP", "IncreaseAction"]
+- !private ["So21UIAppearanceContainerP", "String"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "countLabel"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- ["So21UIAppearanceContainerP", "newState"]
+- !private ["So21UIAppearanceContainerP", "store"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "DecreaseAction"]
+- !private ["So18UIContentContainerP", "IncreaseAction"]
+- !private ["So18UIContentContainerP", "String"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "countLabel"]
+- !private ["So18UIContentContainerP", "init"]
+- ["So18UIContentContainerP", "newState"]
+- !private ["So18UIContentContainerP", "store"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "DecreaseAction"]
+- !private ["So18UIFocusEnvironmentP", "IncreaseAction"]
+- !private ["So18UIFocusEnvironmentP", "String"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "countLabel"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- ["So18UIFocusEnvironmentP", "newState"]
+- !private ["So18UIFocusEnvironmentP", "store"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So7UILabelC", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "DecreaseAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "IncreaseAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "String"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "countLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So30UIPasteConfigurationSupportingP", "newState"]
+- !private ["So30UIPasteConfigurationSupportingP", "store"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "AppState"]
+- !private ["So11UIResponderC", "DecreaseAction"]
+- !private ["So11UIResponderC", "IncreaseAction"]
+- ["So11UIResponderC", "State"]
+- !private ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "countLabel"]
+- ["So11UIResponderC", "didTapDecreaseButton"]
+- ["So11UIResponderC", "didTapIncreaseButton"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "newState"]
+- !private ["So11UIResponderC", "store"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "DecreaseAction"]
+- !private ["So30UIResponderStandardEditActionsP", "IncreaseAction"]
+- !private ["So30UIResponderStandardEditActionsP", "String"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "countLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- ["So30UIResponderStandardEditActionsP", "newState"]
+- !private ["So30UIResponderStandardEditActionsP", "store"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "DecreaseAction"]
+- !private ["So16UIStateRestoringP", "IncreaseAction"]
+- !private ["So16UIStateRestoringP", "String"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "countLabel"]
+- !private ["So16UIStateRestoringP", "init"]
+- ["So16UIStateRestoringP", "newState"]
+- !private ["So16UIStateRestoringP", "store"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "DecreaseAction"]
+- !private ["So18UITraitEnvironmentP", "IncreaseAction"]
+- !private ["So18UITraitEnvironmentP", "String"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "countLabel"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- ["So18UITraitEnvironmentP", "newState"]
+- !private ["So18UITraitEnvironmentP", "store"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "DecreaseAction"]
+- !private ["So23UIUserActivityRestoringP", "IncreaseAction"]
+- !private ["So23UIUserActivityRestoringP", "String"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "countLabel"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- ["So23UIUserActivityRestoringP", "newState"]
+- !private ["So23UIUserActivityRestoringP", "store"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "text"]
+- !private ["So16UIViewControllerC", "AppState"]
+- !private ["So16UIViewControllerC", "DecreaseAction"]
+- !private ["So16UIViewControllerC", "IncreaseAction"]
+- ["So16UIViewControllerC", "State"]
+- !private ["So16UIViewControllerC", "String"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "countLabel"]
+- ["So16UIViewControllerC", "didTapDecreaseButton"]
+- ["So16UIViewControllerC", "didTapIncreaseButton"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "newState"]
+- !private ["So16UIViewControllerC", "store"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["13ios_challenge14ViewControllerC", "AppState"]
+- !private ["13ios_challenge14ViewControllerC", "DecreaseAction"]
+- !private ["13ios_challenge14ViewControllerC", "IncreaseAction"]
+- ["13ios_challenge14ViewControllerC", "State"]
+- !private ["13ios_challenge14ViewControllerC", "String"]
+- ["13ios_challenge14ViewControllerC", "UILabel"]
+- ["13ios_challenge14ViewControllerC", "countLabel"]
+- ["13ios_challenge14ViewControllerC", "deinit"]
+- ["13ios_challenge14ViewControllerC", "didTapDecreaseButton"]
+- ["13ios_challenge14ViewControllerC", "didTapIncreaseButton"]
+- ["13ios_challenge14ViewControllerC", "init"]
+- ["13ios_challenge14ViewControllerC", "newState"]
+- !private ["13ios_challenge14ViewControllerC", "store"]
+- ["13ios_challenge14ViewControllerC", "viewDidLoad"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "DecreaseAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "IncreaseAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "countLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "newState"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "store"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+depends-nominal:
+- !private "13ios_challenge6ActionP"
+- !private "13ios_challenge8AppStateV"
+- !private "SK"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "13ios_challenge14DecreaseActionV"
+- !private "SE"
+- "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "13ios_challenge14IncreaseActionV"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- !private "Sm"
+- !private "ST"
+- !private "13ios_challenge5StateP"
+- !private "13ios_challenge5StoreC"
+- "13ios_challenge15StoreSubscriberP"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So7UILabelC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "13ios_challenge14ViewControllerC"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "cb699c6997dff4dfd923711cbcb620c1"
